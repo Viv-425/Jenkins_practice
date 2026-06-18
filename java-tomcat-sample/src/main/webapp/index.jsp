@@ -7,6 +7,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </p>
 <p>rose are red</p>
 <p> making changes to check pipeline code </p>
-<img src="https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php"/> 
+<p>Today is 18 June 2026</p>
 </body>
 </html>
